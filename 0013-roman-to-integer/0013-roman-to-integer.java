@@ -1,13 +1,10 @@
 class Solution {
     public int romanToInt(String s) {
         int result = 0;
-
         for (int i = 0; i < s.length(); i++) {
             int current = value(s.charAt(i));
-
             if (i + 1 < s.length()) {
                 int next = value(s.charAt(i + 1));
-
                 if (current < next) {
                     result -= current;
                 } else {
@@ -17,10 +14,8 @@ class Solution {
                 result += current;
             }
         }
-
         return result;
     }
-
     public int value(char ch) {
         switch (ch) {
             case 'I': return 1;
@@ -31,7 +26,6 @@ class Solution {
             case 'D': return 500;
             case 'M': return 1000;
         }
-
         return 0;
     }
 }
