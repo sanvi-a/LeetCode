@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sanvi-a/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/sanvi-a/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/sanvi-a/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/sanvi-a/LeetCode/tree/master/0066-plus-one) |
 ## Binary Search
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sanvi-a/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/sanvi-a/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sanvi-a/LeetCode/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
@@ -34,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sanvi-a/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/sanvi-a/LeetCode/tree/master/0013-roman-to-integer) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sanvi-a/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
