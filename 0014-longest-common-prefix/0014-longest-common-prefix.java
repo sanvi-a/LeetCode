@@ -5,7 +5,6 @@ class Solution {
             for (int j = 1; j < strs.length; j++) {
                 if (i >= strs[j].length() ||
                     strs[j].charAt(i) != ch) {
-
                     return strs[0].substring(0, i);
                 }
             }
